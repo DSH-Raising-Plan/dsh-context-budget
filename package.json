@@ -1,7 +1,7 @@
-{
+﻿{
   "name": "dsh-context-budget",
   "version": "0.1.0",
-  "description": "Trim LLM chat history to a token budget for DeepSeek Harness: keep system persona, drop oldest turns in pairs.",
+  "description": "DeepSeek Harness 上下文预算插件：保留人设，按轮丢掉最旧对话",
   "keywords": ["dsh", "dsh-plugin", "deepseek-harness", "context", "token-budget"],
   "homepage": "https://github.com/canyueY/dsh-context-budget#readme",
   "bugs": { "url": "https://github.com/canyueY/dsh-context-budget/issues" },

@@ -1,6 +1,6 @@
-{
+﻿{
   "name": "dsh-context-budget",
-  "description": "Trim chat history to a token budget: keep persona, drop oldest turns in pairs.",
+  "description": "DeepSeek Harness 上下文预算插件：保留人设，按轮丢掉最旧对话",
   "version": "0.1.0",
   "entry": {
     "name": "dsh-context-budget",
