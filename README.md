@@ -4,7 +4,7 @@
 
 > 社区插件，与 DeepSeek 官方无关。  
 > 移植自 [`canyueY/context-budget`](https://github.com/canyueY/context-budget)。  
-> 英文简版：[README.en.md](./README.en.md)
+> English: [README.en.md](./README.en.md)
 
 ## 为什么需要它
 
